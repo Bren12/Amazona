@@ -4,9 +4,11 @@ Source code developed for the final project of the course TC1033.
 
 Course: TC1033 (Object Oriented Computational Thinking)
 <br>
-Group: 6
+Developed by: Brenda Saucedo
 <br>
 Semester: Aug-Dec 2020
+<br>
+Group: 6
 
 ## Files Description
 
