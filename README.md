@@ -6,9 +6,7 @@ Course: TC1033 (Object Oriented Computational Thinking)
 <br>
 Developed by: [Brenda Saucedo](https://github.com/Bren12)
 <br>
-Semester: Aug-Dec 2020
-<br>
-Group: 6
+Semester: AD20
 
 ## Files Description
 
