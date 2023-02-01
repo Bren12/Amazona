@@ -2,11 +2,9 @@
 
 Source code developed for the final project of the course TC1033.
 
-Course: TC1033 (Object Oriented Computational Thinking)
-<br>
-Developed by: [Brenda Saucedo](https://github.com/Bren12)
-<br>
-Semester: AD20
+**Course:** TC1033 (Object Oriented Computational Thinking) <br>
+**Developed by:** [Brenda Saucedo](https://github.com/Bren12) <br>
+**Semester:** AD20
 
 ## Files Description
 
