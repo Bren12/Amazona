@@ -1,4 +1,4 @@
-# Amazona 🛒
+# Amazona Basic Simulator in C++ 🛒
 
 Source code developed for the final project of the course TC1033.
 
