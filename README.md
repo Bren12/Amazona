@@ -6,6 +6,11 @@ Source code developed for the final project of the course TC1033.
 **Developed by:** [Brenda Saucedo](https://github.com/Bren12) <br>
 **Semester:** AD20
 
+## Project Description
+
+Computer program developed to model some of the information management needs required 
+in electronic commerce transactions.
+
 ## Files Description
 
 ### 📁 amazona.cpp
